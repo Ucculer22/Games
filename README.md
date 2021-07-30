@@ -1,4 +1,4 @@
-# Udemy-Python-Bootcamp
-Just a simple library of projects that were made for the Udemy course
+# Games ReadMe
 
-I will add all projects in this repository.
+This repo is a demonstration of fundamental python concepts, which includes interesting games you can build in Python.
+I plan to contribute to this repo from time to time as a level up my skills and take on more challenging games
